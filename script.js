@@ -3,4 +3,4 @@ const slideRight = document.querySelector(".right-slide");
 const slideLeft = document.querySelector(".left-slide");
 const upButton = document.querySelector(".up-button");
 const downButton = document.querySelector(".down-button");
-const slidesLength = document.querySelectorAll(".slider-container");
+const slidesLength = slideRight.querySelectorAll("div");
