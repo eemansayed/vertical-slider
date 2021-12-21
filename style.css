@@ -60,6 +60,14 @@ button {
   padding: 15px;
 }
 
+button:hover {
+  color: #222;
+}
+
+button:focus {
+  outline: none;
+}
+
 .right-slide > div {
   background-repeat: no-repeat;
   background-size: cover;
